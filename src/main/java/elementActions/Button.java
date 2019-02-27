@@ -14,26 +14,11 @@ public class Button
         super(driver, wait);
     }
 
-    public void submit(By by)
-    {
-        try
-        {
-            getElement(by).submit();
-        }
-        catch (NoSuchElementException localNoSuchElementException) {}
-    }
 
-    public void submit(By by, int index)
-    {
-        try
-        {
-            ((WebElement)getAllElements(by).get(index)).submit();
-        }
-        catch (NoSuchElementException e)
-        {
-            e.printStackTrace();
-        }
-    }
+    /**
+     * Wrappers used for button action click
+     * @param by
+     */
 
     public void click(By by)
     {

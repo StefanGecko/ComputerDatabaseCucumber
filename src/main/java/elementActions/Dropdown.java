@@ -15,23 +15,10 @@ public class Dropdown
         super(driver, wait);
     }
 
-    public void select(By by, int option) {
-        try {
-            this.select = new Select(getElement(by));
-            this.select.selectByIndex(option);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
-
-    public void select(By by, int option, int index) {
-        try {
-            this.select = new Select((WebElement) getAllElements(by).get(index));
-            this.select.selectByIndex(option);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
+    /**
+     * Wrappers used for dropdown web elements by visible text
+     * @param by
+     */
 
     public void select(By by, String visibleText) {
         try {
@@ -42,12 +29,4 @@ public class Dropdown
         }
     }
 
-    public void select(By by, String visibleText, int index) {
-        try {
-            this.select = new Select((WebElement) getAllElements(by).get(index));
-            this.select.selectByVisibleText(visibleText);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
 }
