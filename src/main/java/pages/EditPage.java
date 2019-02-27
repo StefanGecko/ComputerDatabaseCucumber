@@ -35,8 +35,6 @@ public class EditPage extends BasePage {
     By cancelButton = By.linkText("Cancel");
     By deleteCompButton = By.className("danger");
     By deleteConfirmation = By.className("alert-message");
-    By introducedColumn = By.cssSelector(".computers > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(2) > em:nth-child(1)");
-    By discontinuedColumn = By.cssSelector(".computers > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(3) > em:nth-child(1)");
     By introducedDateAlert = By.className("error");
      By blankNamefield = By.className("help-inline");
 
