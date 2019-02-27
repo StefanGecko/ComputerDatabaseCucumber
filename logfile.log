@@ -1,0 +1,204 @@
+2019-02-26 19:37:08,115 INFO  [WebDriverManager] Reading https://api.github.com/repos/mozilla/geckodriver/releases to seek geckodriver 
+2019-02-26 19:37:09,864 INFO  [WebDriverManager] Latest version of geckodriver is 0.24.0 
+2019-02-26 19:37:09,936 INFO  [Downloader] Using binary driver previously downloaded 
+2019-02-26 19:37:09,937 INFO  [WebDriverManager] Exporting webdriver.gecko.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\geckodriver\win64\0.24.0\geckodriver.exe 
+2019-02-26 19:38:06,156 INFO  [WebDriverManager] Exporting webdriver.gecko.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\geckodriver\win64\0.24.0\geckodriver.exe 
+2019-02-26 19:38:17,765 INFO  [WebDriverManager] Exporting webdriver.gecko.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\geckodriver\win64\0.24.0\geckodriver.exe 
+2019-02-26 19:39:59,101 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:39:59,140 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 19:40:07,756 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:40:07,767 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 19:40:13,429 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:40:13,439 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 19:40:19,197 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:40:19,209 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 19:40:24,806 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:40:24,815 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 19:40:30,430 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:40:30,442 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 19:41:43,376 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:41:43,402 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 19:43:38,526 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:43:38,544 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 19:43:50,097 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:43:50,108 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 19:43:58,722 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:43:58,731 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 19:44:07,711 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:44:07,721 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 19:44:16,462 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:44:16,471 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 19:44:25,065 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 19:44:25,073 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:17:24,356 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:17:24,377 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:17:34,259 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:17:34,270 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:17:42,891 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:17:42,902 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:17:54,475 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:17:54,485 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:18:03,130 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:18:03,138 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:22:48,238 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:22:48,265 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:22:58,031 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:22:58,042 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:23:07,429 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:23:07,438 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:23:14,236 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:23:14,244 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:23:22,819 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:23:22,829 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:24:34,012 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:24:34,032 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:24:43,096 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:24:43,106 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:24:51,269 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:24:51,278 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:24:57,562 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:24:57,570 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:25:06,287 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:25:06,296 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:28:58,267 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:28:58,294 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:29:07,573 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:29:07,584 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:29:15,750 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:29:15,759 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:29:24,555 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:29:24,561 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-26 20:29:33,090 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-26 20:29:33,098 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 08:58:45,607 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 08:58:45,782 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 08:59:13,978 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 08:59:13,991 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 08:59:37,143 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 08:59:37,153 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 08:59:57,421 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 08:59:57,430 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:00:22,296 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:00:22,320 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:00:45,909 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:00:45,922 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:01:06,345 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:01:06,355 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:02:29,600 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:02:29,637 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:02:42,229 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:02:42,239 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:02:51,823 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:02:51,832 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:03:03,090 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:03:03,101 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:03:13,982 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:03:13,992 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:05:16,657 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:05:16,677 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:05:30,277 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:05:30,287 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:05:41,025 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:05:41,034 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:05:50,890 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:05:50,901 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 09:06:01,130 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 09:06:01,138 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:10:49,121 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:10:49,150 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:10:55,013 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:10:55,024 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:10:59,376 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:10:59,384 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:11:05,331 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:11:05,343 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:11:16,039 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:11:16,048 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:11:20,581 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:11:20,598 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:11:26,500 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:11:26,509 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:13:30,429 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:13:30,449 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:13:35,635 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:13:35,646 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:13:39,867 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:13:39,876 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:13:44,673 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:13:44,681 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:13:56,543 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:13:56,553 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:14:01,982 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:14:01,991 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:14:07,135 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:14:07,145 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:14:12,065 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:14:12,075 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:16:16,203 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:16:16,221 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:16:21,242 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:16:21,253 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:16:26,135 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:16:26,144 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:16:30,595 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:16:30,606 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:16:42,122 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:16:42,131 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:16:46,986 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:16:46,995 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:16:51,674 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:16:51,683 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:16:56,444 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:16:56,453 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:23:47,762 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:23:47,798 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:25:04,749 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:25:04,777 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:27:26,334 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:27:26,353 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:31:07,080 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:31:07,108 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:48:53,204 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:48:53,232 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:48:59,483 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:48:59,495 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:49:05,253 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:49:05,264 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:49:11,879 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:49:11,893 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:50:05,112 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:50:05,145 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:50:59,885 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:50:59,912 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:52:49,178 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:52:49,202 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:54:51,218 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:54:51,245 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:56:46,530 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:56:46,550 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 10:59:37,113 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 10:59:37,146 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 11:01:18,026 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 11:01:18,047 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 11:02:38,274 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 11:02:38,312 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 11:03:15,379 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 11:03:15,413 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 11:05:09,129 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 11:05:09,149 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 11:10:47,282 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 11:10:47,315 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 11:11:30,096 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 11:11:30,124 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 11:15:10,879 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 11:15:10,912 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 11:17:11,717 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 11:17:11,740 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 11:24:40,528 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 11:24:40,576 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 11:27:18,605 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 11:27:18,642 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 11:29:23,176 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 11:29:23,197 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
+2019-02-27 11:30:57,918 INFO  [WebDriverManager] Using chromedriver 2.45 (since Google Chrome 72 is installed in your machine) 
+2019-02-27 11:30:57,939 INFO  [WebDriverManager] Exporting webdriver.chrome.driver as C:\Users\Stefan Kajchevski\.m2\repository\webdriver\chromedriver\win32\2.45\chromedriver.exe 
