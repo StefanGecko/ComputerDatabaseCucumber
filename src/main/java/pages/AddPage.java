@@ -34,7 +34,6 @@ public class AddPage extends BasePage {
     By discontinuitedDate = By.id("discontinued");
     By companyName = By.id("company");
     By createButton = By.className("primary");
-    By cancelButton = By.linkText("Cancel");
     By computerNameAlert = By.className("help-inline");
 
     /**
