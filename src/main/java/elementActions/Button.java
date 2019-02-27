@@ -16,7 +16,7 @@ public class Button
 
 
     /**
-     * Wrappers used for button action click
+     * Wrapper used for button action click
      * @param by
      */
 
@@ -29,87 +29,5 @@ public class Button
         catch (Exception localException) {}
     }
 
-    public void click(By by, int index)
-    {
-        try
-        {
-            ((WebElement)getAllElements(by).get(index)).click();
-        }
-        catch (NoSuchElementException e)
-        {
-            e.printStackTrace();
-        }
-    }
 
-    public void doubleClick(By by)
-    {
-        try
-        {
-            new Actions(driver).doubleClick(getElement(by)).perform();
-        }
-        catch (Exception e)
-        {
-            e.printStackTrace();
-        }
-    }
-
-    public void doubleClick(By by, int index)
-    {
-        try
-        {
-            new Actions(driver).doubleClick((WebElement)getAllElements(by).get(index)).perform();
-        }
-        catch (Exception e)
-        {
-            e.printStackTrace();
-        }
-    }
-
-    public void rightClick(By by)
-    {
-        try
-        {
-            new Actions(driver).contextClick(getElement(by)).perform();
-        }
-        catch (Exception e)
-        {
-            e.printStackTrace();
-        }
-    }
-
-    public void rightClick(By by, int index)
-    {
-        try
-        {
-            new Actions(driver).contextClick((WebElement)getAllElements(by).get(index)).perform();
-        }
-        catch (Exception e)
-        {
-            e.printStackTrace();
-        }
-    }
-
-    public void mouseOver(By by)
-    {
-        try
-        {
-            new Actions(driver).moveToElement(getElement(by)).perform();
-        }
-        catch (Exception e)
-        {
-            e.printStackTrace();
-        }
-    }
-
-    public void mouseOver(By by, int index)
-    {
-        try
-        {
-            new Actions(driver).moveToElement((WebElement)getAllElements(by).get(index)).perform();
-        }
-        catch (Exception e)
-        {
-            e.printStackTrace();
-        }
-    }
 }
